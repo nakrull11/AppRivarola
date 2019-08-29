@@ -10,6 +10,6 @@ public class AvisoMensaje extends BroadcastReceiver {
 
     @Override
     public void onReceive(Context context, Intent intent) {
-        Toast.makeText(context, "Tienes un nuevo mensaje sin leer!", Toast.LENGTH_LONG).show();
+        Toast.makeText(context, "Tienes un nuevo mensaje sin leer chinwenwencha!", Toast.LENGTH_LONG).show();
     }
 }
